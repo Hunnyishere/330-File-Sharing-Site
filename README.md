@@ -1,12 +1,7 @@
-# CSE330
-
-475518
-
-474348
-
-#### Link
-
-http://ec2-54-191-166-77.us-west-2.compute.amazonaws.com/~zoewang/module2-group-475518-474348
+#### Basic Functions
+- User login, logout  
+- User can see a list of the files they uploaded and open them  
+- User can upload files and delete files  
 
 #### Suggested test user
 Zoe
