@@ -6,10 +6,8 @@
 #### Suggested test user
 Zoe
 
-## Creative portion
+#### Creative portion
 
-- Creating custom new users.
-
-- File download feature for files can't be viewed in the browser.
-
+- Creating custom new users.  
+- File download feature for files can't be viewed in the browser.  
 - View existing files by categories and switch among them.
