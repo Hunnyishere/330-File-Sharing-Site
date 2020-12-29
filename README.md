@@ -1,6 +1,6 @@
 #### Languages / Framework
-- HTML
-- PHP
+- Frontend: HTML
+- Backend: PHP
 
 #### Basic Functions
 - User login, logout  
