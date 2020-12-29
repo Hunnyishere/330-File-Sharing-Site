@@ -1,3 +1,7 @@
+#### Languages / Framework
+- HTML
+- PHP
+
 #### Basic Functions
 - User login, logout  
 - User can see a list of the files they uploaded and open them  
